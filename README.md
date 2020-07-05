@@ -6,8 +6,6 @@
 [![pathlib](https://img.shields.io/badge/-pathlib-blue)](#dependencies)
 [![lz4](https://img.shields.io/badge/-lz4-blue)](#dependencies)
 
-
-![Screenshot](storesites.jpg)
  
 ## Table of contents
 * [Description](#description)
